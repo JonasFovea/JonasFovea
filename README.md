@@ -18,7 +18,7 @@ In my course of studies and also by myself, I was able to learn the following la
 - UML
 - Unittesting
 
-Since we've always just scratched the surface of the languages and concepts, I would'nt call myself an advanced user, but I understood the key principles and therefore I am able to quickly adapt new concepts.
+Since we've always just scratched the surface of the languages and concepts, I would'nt call myself an advanced user, but I understand the key principles and therefore I am able to quickly adapt new concepts.
 
 
 
